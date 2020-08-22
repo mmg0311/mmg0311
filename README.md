@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I am a full stack enthusiast who likes to explore new technologies.
 <!--
 **mmg0311/mmg0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

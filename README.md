@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-      I am a person with deep knowledge of data structures, algorithms, operating systems, database management systems and well known web development frameworks/libraries like React.js. I have strong understanding of Object oriented programming with experience in C++. I have an experience of 4 months as a full stack intern where test driven development was followed and it helped me to learn about the software development tools and life cycle.
+      My name is Mohak Gadge a final year student at Pune Institute of Computer Technology, Pune (PICT,Pune). I am a person with deep knowledge of data structures, algorithms, operating systems, database management systems and well known web development frameworks/libraries like React.js. I have strong understanding of Object oriented programming with experience in C++. I have an experience of 4 months as a full stack intern where test driven development was followed and it helped me to learn about the software development tools and life cycle.
   </samp>
 </p>
 
@@ -21,9 +21,6 @@
 ### Connect with me :smiley:
 <a href="https://twitter.com/mmgmohak311">
   <img align="left" alt="Mohak Gadge Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-</a>
-<a href="https://dev.to/coderjojo">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohakgadge/">
   <img align="left" alt="Mohak Gadge LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />

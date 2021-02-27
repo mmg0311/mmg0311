@@ -1,16 +1,36 @@
-### Hi there 👋
-## I am a full stack enthusiast who likes to explore new technologies.
-<!--
-**mmg0311/mmg0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Heyo :wave: Devs, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br>
+  <samp>
+      I am a person with deep knowledge of data structures, algorithms, operating systems, database management systems and well known web development frameworks/libraries like React.js. I have strong understanding of Object oriented programming with experience in C++. I have an experience of 4 months as a full stack intern where test driven development was followed and it helped me to learn about the software development tools and life cycle.
+  </samp>
+</p>
+
+### Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|:---:|:---:|:---:|
+
+
+### Tools :fire:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> |
+|:---:|:---:|:---:|
+
+### Connect with me :smiley:
+<a href="https://twitter.com/mmgmohak311">
+  <img align="left" alt="Mohak Gadge Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://dev.to/coderjojo">
+  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mohakgadge/">
+  <img align="left" alt="Mohak Gadge LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<br/><br/>
+
+
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
+
+![ViewCount](https://views.whatilearened.today/views/github/mmg0311/views.svg)

@@ -2,7 +2,7 @@
 ## Hello :wave: Guys, 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif" width=100>
+  <img src="https://i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif" width=400>
   <br><br>
   <samp>
       My name is Mohak Gadge a final year student at Pune Institute of Computer Technology, Pune (PICT,Pune). I am a person with deep knowledge of data structures, algorithms, operating systems, database management systems and well known web development frameworks/libraries like React.js. I have strong understanding of Object oriented programming with experience in C++. I have an experience of 4 months as a full stack intern where test driven development was followed and it helped me to learn about the software development tools and life cycle.

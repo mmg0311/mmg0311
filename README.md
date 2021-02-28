@@ -15,7 +15,7 @@
 
 
 ### Tools :fire:
-|<img src="https://lh3.googleusercontent.com/proxy/r8Zxe8Elom6uiJzuulC1vVKCl17PCewhJg1Ns_hIAueftbfzVxgXcJOwHaUTTwaxRM8AuE7as2MHu8JC0037YMeRlPvGLCXCHVoe0ZfvU-_fR5z95ykTDdQQpxHvwpf0XKQPursI-DeOIdgEof3Af1n47w" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> |
+|<img src="https://mildaintrainings.com/wp-content/uploads/2017/11/react-logo.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> |
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:

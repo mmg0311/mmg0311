@@ -12,7 +12,8 @@
 ### Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | 
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | 
-<img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" width=60> |
+<img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" width=60>
+<br/>
 |:---:|:---:|:---:|
 
 
@@ -21,6 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width=60> | 
 <img src="https://blog.knoldus.com/wp-content/uploads/2019/06/graphql.png" width=60> |
 <img src="https://stepinlogic.com/wp-content/uploads/2020/07/aws-logo.png" width=60>
+<br/>
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:

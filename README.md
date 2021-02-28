@@ -21,7 +21,7 @@
 |<img src="https://mildaintrainings.com/wp-content/uploads/2017/11/react-logo.png" width=60> | 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width=60> | 
 <img src="https://blog.knoldus.com/wp-content/uploads/2019/06/graphql.png" width=60> |
-<img src="https://stepinlogic.com/wp-content/uploads/2020/07/aws-logo.png" width=60>
+<img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width=60>
 <br/>
 |:---:|:---:|:---:|
 
